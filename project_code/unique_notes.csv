@@ -1,0 +1,1564 @@
+0,activated from IR
+1,placed on IR with sprained ankle
+2,placed on IR with ankle injury
+3,placed on IR with shoulder injury
+4,placed on IR with arm injury
+5,placed on IR with abdominal injury
+6,placed on IR with facial injury
+7,placed on IR with sports hernia
+8,placed on IR with surgery on shoulder
+9,placed on IR with wrist injury
+10,placed on IR with foot injury
+11,placed on IR with surgery on hip
+12,placed on IR with upper body injury
+13,placed on IR with broken right hand
+14,placed on IR with rib injury
+15,placed on IR with fractured left foot
+16,placed on IR with broken left hand
+17,placed on IR with fractured orbital bone
+18,placed on IR with strained oblique muscle
+19,placed on IR with bruised ribs
+20,placed on IR with chest injury
+21,placed on IR with lacerated right index finger
+22,placed on IR with concussion
+23,placed on IR with throat contusion
+24,placed on IR recovering from surgery on left knee (out for season)
+25,placed on IR with appendectomy
+26,placed on IR with lower body injury
+27,placed on IR with hand injury
+28,placed on IR with facial injury / fractured orbital bone
+29,placed on IR with separated shoulder / broken nose
+30,placed on IR with hip injury
+31,placed on IR with broken thumb
+32,placed on IR with broken hand
+33,placed on IR with groin injury
+34,placed on IR with knee injury
+35,placed on IR with neck injury
+36,placed on IR recovering from appendectomy
+37,placed on IR with strained groin
+38,placed on IR with fractured foot
+39,placed on IR with foot injury (out for season)
+40,placed on IR with hip injury (CBC CBS) / designated as injured non-roster player (E)
+41,placed on IR with irregular hearbeat
+42,placed on IR with fractured right leg
+43,placed on IR with sprained left ankle
+44,placed on IR with heart surgery (out for season)
+45,placed on IR with fractured ankle
+46,placed on IR with groin injury (CBC E SN)
+47,placed on IR with sprained right knee
+48,activated from IR (SN)
+49,placed on IR with surgery on wrist
+50,placed on IR with upper body injury (Y)
+51,placed on IR with upper body injury (CBC)
+52,placed on IR with concussion-like symptoms
+53,knee injury (DTD)
+54,toe injury (DTD)
+55,groin injury (DTD)
+56,lower body injury (DTD)
+57,facial injury (DTD)
+58,concussion (DTD)
+59,hand injury (out 1-2 weeks)
+60,upper body injury (DTD)
+61,torso injury (DTD)
+62,sports hernia (DTD)
+63,hand injury (DTD)
+64,bruised foot (DTD)
+65,foot injury (DTD)
+66,neck injury (DTD)
+67,surgery on retina (out 1-2 weeks)
+68,right shoulder injury (DTD)
+69,sore back (DTD)
+70,head injury (DTD)
+71,leg injury (DTD)
+72,knee injury (out indefinitely)
+73,eye injury (DTD)
+74,shoulder injury (out 4-5 weeks)
+75,torn ACL in right knee (out for season)
+76,surgery on right knee to repair torn ACL (out for season)
+77,surgery to repair broken jaw (DTD)
+78,shoulder injury (DTD)
+79,surgery on hip (out for season)
+80,right knee injury (DTD)
+81,lower body injury (out for season)
+82,knee injury (out for season)
+83,bruised ribs (DTD)
+84,strained oblique muscle (DTD)
+85,chest injury (DTD)
+86,sore groin (DTD)
+87,pulled groin (DTD)
+88,shoulder injury (left game)
+89,appendectomy (out indefinitely)
+90,surgery on knee (out indefinitely)
+91,back injury (DTD)
+92,lacerated leg (out for season)
+93,quadriceps injury (DTD)
+94,broken nose (DTD)
+95,lacerated hand (DTD)
+96,hip injury (DTD)
+97,dizzyness (DTD)
+98,separated shoulder / broken nose (DTD)
+99,broken orbital bone / scratched cornea (DTD)
+100,hip flexor injury (DTD)
+101,fractured orbital bone (DTD)
+102,lower body injury (out indefinitely)
+103,sprained MCL in knee (out for season)
+104,lacerated leg (DTD)
+105,back injury (out for season)
+106,broken thumb (out indefinitely)
+107,ankle injury (DTD)
+108,bruised quadriceps (DTD)
+109,concussion / head injury (DTD)
+110,back spasms (DTD)
+111,strained abdominal muscle (DTD)
+112,strained groin (DTD)
+113,upper body injury (left game)
+114,wrist injury (DTD)
+115,shoulder injury (out for season)
+116,irregular heartbeat (DTD)
+117,concussion (CBC) / concussion-like symptoms (T) (DTD)
+118,irregular heartbeat (out for season)
+119,concussion / lower body injury (CBC) (out indefinitely)
+120,groin/hip injury (DTD)
+121,sprained knee (DTD)
+122,Achilles injury (DTD)
+123,upper body injury (out for season)
+124,Achilles injury (out for season)
+125,hand injury (out for season)
+126,heel injury (DTD)
+127,surgery on hip to repair torn labrum (out indefinitely)
+128,activated from injury-suspended list
+129,placed on IR with torn ligament in right thumb
+130,placed on IR with surgery on right thumb to repair torn ligament
+131,placed on IR with surgery on finger
+132,placed on IR with arthroscopic knee surgery (out 3-5 weeks)
+133,placed on IR with fractured jaw
+134,placed on IR with right shoulder injury
+135,activated from iR
+136,placed on IR with left high ankle sprain
+137,activated from injured / non-roster status
+138,placed on IR recovering from surgery on knee
+139,placed on IR with surgery to repair torn left quadriceps tendon (out for season)
+140,placed on IR recovering from surgery to repair broken nose
+141,placed on IR with fractured left hand
+142,placed on IR with broken wrist
+143,placed on IR with right knee injury
+144,placed on IR with left ankle injury
+145,placed on IR with concussion (out for season)
+146,placed on IR with finger injury
+147,placed on IR wtih surgery on back
+148,placed on IR with leg injury
+149,placed on IR with jaw injury
+150,placed on IR with cracked rib
+151,placed on IR with left leg / left hand/finger (CBC) injury
+152,placed on IR with torn ACL in knee
+153,placed on IR with facial fractures
+154,placed on IR with left knee injury (surgery)
+155,placed on IR with blood clot in leg (out for season)
+156,placed on IR with lower body injury (out for season)
+157,placed on IR with upper body injury (CBS S T)
+158,placed on IR with sprained MCL in knee
+159,placed on IR with upper body injury (CBS S Y)
+160,placed on IR with upper body injury (out for season)
+161,placed on IR with head injury
+162,placed on IR with cracked ribs
+163,placed on IR with back injury
+164,placed on IR with dislocated wrist
+165,placed on IR with mid-body injury
+166,broken finger (DTD)
+167,open heart surgery (out indefinitely)
+168,right knee injury (out indefinitely)
+169,right ankle injury (out indefinitely)
+170,strained oblique muscle (out indefinitely)
+171,sprained right ankle (DTD)
+172,strained leg muscle (DTD)
+173,groin injury (out indefinitely)
+174,concussion (out indefinitely)
+175,lower leg laceration / ankle injury (DTD)
+176,bruised upper body / broken rib (DTD)
+177,hamstring injury (DTD)
+178,head & neck injury (DTD)
+179,abdominal injury (DTD)
+180,surgery to repair fractured jaw (date approximate)
+181,blurred vision (DTD)
+182,jaw injury (out indefinitely)
+183,migraine headache (DTD)
+184,torn ligament in neck (out for season)
+185,upper body injury (out indefinitely)
+186,hip flexor (DTD)
+187,bruised hip (DTD)
+188,abdominal strain (DTD)
+189,right hand injury (DTD)
+190,left foot/ankle injury (out for season)
+191,jaw/facial injury (DTD)
+192,lower/upper (CBC) body injury (DTD)
+193,recovering from surgery to repair broken nose (DTD)
+194,broken left hand (out indefinitely)
+195,lacerated left leg (out for season)
+196,sprained ankle (DTD)
+197,broken wrist (DTD)
+198,facial lacerations (DTD)
+199,left ankle injury (DTD)
+200,arm/shoulder injury (out indefinitely)
+201,bruised foot (out for season)
+202,fractured leg (out for season)
+203,fractured hand (DTD)
+204,body soreness (DTD)
+205,finger injury (DTD)
+206,general body soreness (DTD)
+207,arm injury (out for season)
+208,elbow injury (DTD)
+209,concussion (out for season)
+210,leg injury (out for season)
+211,facial surgery (out for season)
+212,sprained MCL in knee (DTD)
+213,neck injury (out for season)
+214,ankle injury (out for season)
+215,middle body injury (DTD)
+216,cracked ribs (DTD)
+217,sprained MCL in knee (out indefinitely)
+218,mid-body injury (DTD)
+219,upper (CBC) / middle (Y) body injury (DTD)
+220,fractured foot (out indefinitely)
+221,dislocated wrist (DTD)
+222,rib injury (DTD)
+223,rib injury (out indefinitely)
+224,placed on IR with irregular heartbeat
+225,placed on IR with sprained right ankle
+226,placed on IR with broken right pinkie finger
+227,placed on IR with surgery on left elbow
+228,placed on IR with right hand injury
+229,placed on IR with nose injury
+230,placed on IR with separated right shoulder
+231,placed on IR with broken left arm
+232,placed on IR with fractured right lower leg
+233,placed on IR with head (CBC) / neck injury
+234,placed on IR recovering from surgery on right knee
+235,"designated injured, non-roster player recovering from surgery on right knee"
+236,placed on IR with surgery to repair sports hernia
+237,placed on IR with surgery on right thumb (Y)
+238,placed on IR with broken left hand/arm
+239,placed on IR with fractured right hand
+240,placed on IR with broken nose
+241,placed on IR with hand infection
+242,placed on IR recovering from arthroscopic surgery on right knee to repair torn meniscus
+243,placed on IR with surgery on right knee
+244,placed on IR with sprained left shoulder (out for season)
+245,placed on IR with left Achilles tendon injury
+246,placed on IR with broken right clavicle
+247,placed on IR right shoulder inflammation
+248,placed on IR with broken toe / ankle injury (CBC)
+249,placed on IR with bruised chest
+250,placed on IR with Achilles tendon injury
+251,placed on IR with torn ligament in left thumb (CBS SN)
+252,placed on IR with surgery on shoulder (out for season)
+253,placed on IR with sore back
+254,placed on IR with left shoulder injury
+255,placed on IR with lower body injury (CBC)
+256,placed on IR with back spasms
+257,placed on IR with body soreness
+258,placed on IR with bruised left foot
+259,"placed on IR with arm injury (date 11-06 per CBC, 11-07 per E SN)"
+260,placed on IR with lower body injury (date 12-04 per CBC E)
+261,placed on IR with fractured right foot
+262,placed on IR witih lower body injury
+263,placed on IR with fractured finger
+264,placed on IR with post-concussion syndrome
+265,placed on IR with left knee injury
+266,placed on IR with lacerated right leg
+267,groin injury (out 2-3 weeks)
+268,bruised thigh (DTD)
+269,dislocated right shoulder (out indefinitely)
+270,sports hernia (out indefinitely)
+271,right eye injury (out indefinitely)
+272,right eye injury (DTD)
+273,left knee injury (DTD)
+274,irregular heartbeat (out 2-3 weeks)
+275,nose injury (out indefinitely)
+276,right hand injury (2-3 weeks)
+277,head/shoulder injury (DTD)
+278,left foot injury (DTD)
+279,left hand injury (DTD)
+280,sore right leg (DTD)
+281,head (CBC) / neck injury (DTD)
+282,right eye injury (left game)
+283,fractured right hand (out indefinitely)
+284,arthroscopic surgery on right knee to repair torn meniscus (out indefinitely)
+285,bruised right elbow (DTD)
+286,sprained left shoulder (DTD)
+287,sprained right knee (DTD)
+288,left leg injury (out for season)
+289,right knee injury (out for season)
+290,leg injury (surgery) (out indefinitely)
+291,bruised chest (DTD)
+292,back spasms / wrist injury (CBC) (DTD)
+293,sore Achilles tendon (out indefinitely)
+294,pulled/strained groin (DTD)
+295,bruised lower back (DTD)
+296,sore hand (DTD)
+297,right leg injury (DTD)
+298,fractured left wrist (out indefinitely)
+299,arm injury (DTD)
+300,soreness / back injury / groin injury (DTD)
+301,bruised right wrist (out for season)
+302,upper body soreness (DTD)
+303,soreness in upper body / back injury (DTD)
+304,sore ankle (DTD)
+305,pulled leg muscle (DTD)
+306,fractured foot (DTD)
+307,sore left thumb (DTD)
+308,collarbone injury (DTD)
+309,cheek injury (DTD)
+310,head injury (out for season)
+311,jaw injury (DTD)
+312,upper body injury (DTD) (CBC)
+313,fractured ankle (out indefinitely)
+314,left ankle (CBC) / knee injury (DTD)
+315,facial fracture (DTD)
+316,facial laceration (DTD)
+317,placed on IR with fractured tibia
+318,placed on IR with separated shoulder
+319,placed on IR with broken left leg
+320,placed on IR with strained abdominal muscle
+321,placed on IR with orbital fracture
+322,placed on IR with broken left ankle
+323,placed on IR with strained left knee
+324,placed on IR with shoulder injury (out for season)
+325,placed on IR with eye injury
+326,placed on IR with inflamed pubic bone / surgery for sports hernia (Y)
+327,placed on IR recovering from surgery on back
+328,placed on IR with head injury / concussion
+329,placed on IR with pulled groin muscle
+330,placed on IR with sprained MCL in right knee
+331,placed on IR with ankle injury (out for season)
+332,placed on IR with eye infection
+333,placed on IR with surgery on hand (out for season)
+334,placed on IR with fractured right femur (out for season)
+335,placed on IR with right ankle injury
+336,placed on IR with facial laceration
+337,placed on IR with head laceration
+338,placed on IR with sprained shoulder
+339,placed on IR with surgery on knee (out for season)
+340,placed on IR recovering from surgery on eye
+341,placed on IR with hip flexor injury
+342,placed on IR with fractured knuckle
+343,placed on IR with sore shoulder
+344,placed on IR with elbow injury
+345,placed on IR with surgery on left shoulder
+346,placed on IR with surgery on knee
+347,placed on IR with sprained left knee
+348,placed on IR with strained neck
+349,placed on IR with bruised ankle
+350,placed on IR with torn oblique
+351,placed on IR with lacerated spleen
+352,placed on IR with hamstring injury
+353,placed on IR with bruised shoulder
+354,placed on IR with fractured left clavicle
+355,placed on IR with fractured finger (out for season)
+356,placed on IR with ankle injury (CBC)
+357,placed on IR with knee injury (out for season)
+358,placed on IR with lower / upper body injury
+359,placed on IR with torn ACL in left knee
+360,dislocated shoulder (out indefinitely)
+361,fractured tibia (DTD)
+362,separated shoulder (out 3-4 weeks)
+363,surgery on shoulder
+364,bruised sternum (DTD)
+365,broken left leg (out for season)
+366,sprained right wrist (out indefinitely)
+367,broken left ankle (out indefinitely)
+368,nose injury (DTD)
+369,eye injury (out indefinitely)
+370,head injury (out indefinitely)
+371,torn MCL in knee (out indefinitely)
+372,surgery on left shoulder to repair torn labrum (out for season)
+373,surgery on back to repair herniated disc (out for season) (date approximate)
+374,flu-like symptoms / head injury (CBC) (DTD)
+375,broken hand (out for season)
+376,sprained right knee / torn MCL in right knee (CBC) (out indefinitely)
+377,hip injury (out for season)
+378,sprained right ankle (out for season)
+379,dizzyness (out for season)
+380,thigh injury (DTD)
+381,ankle injury (out indefinnitely)
+382,ankle injury (out indefinitely)
+383,bruised abdomen (DTD)
+384,high left ankle sprain (out for season)
+385,left ankle/foot injury (out for season)
+386,foot injury (out for season)
+387,sprained right knee (out indefinitely)
+388,ankle injury (DTD / out indefinitely)
+389,right ankle injury (DTD)
+390,sprained shoulder (DTD)
+391,strained/sore groin (DTD)
+392,concussion symptoms (out for season)
+393,strained neck (DTD)
+394,bruised right foot (DTD)
+395,fractured jaw (DTD)
+396,strained back (DTD)
+397,sprained left knee (DTD)
+398,bruised ankle (DTD)
+399,high ankle sprain (out for season)
+400,torn PCL in left knee (out for season)
+401,torn pectoral muscle (out for season)
+402,surgery on shoulder (out for season)
+403,swollen foot (DTD)
+404,left shoulder injury (DTD)
+405,ribs injury (DTD)
+406,sprained right knee (out for season)
+407,fractured left clavicle (DTD)
+408,fractured finger (DTD)
+409,head injury / concussion-like symptoms (DTD)
+410,placed on IR with broken right foot
+411,placed on IR with sprained right shoulder
+412,placed on IR with strained groin (date approximate)
+413,placed on IR with hyphema in left eye
+414,placed on IR with broken jaw
+415,placed on IR with broken jaw (out for season)
+416,placed on the injured/non-roster list with eye injury
+417,placed on IR with broken right thumb
+418,activated from injured/non-roster list
+419,placed on IR with broken left orbital bone
+420,placed on IR with nasal sinus fractures
+421,placed on IR with fatigue/dizziness
+422,placed on IR with surgery on right shoulder
+423,placed on IR with lacerated left forearm
+424,placed on IR with torn retina in left eye
+425,placed on IR with broken finger
+426,placed on IR with flu / lower body injury (CBC)
+427,placed on IR with wrist injury (out for season)
+428,placed on IR with fractured hand (CBC CBS Y)
+429,placed on IR with oral surgery
+430,placed on IR with torn tendon in right hand
+431,placed on IR with lower body muscle inflammation
+432,placed on IR with right elbow injury
+433,"placed on IR with fractured hand (date 11-30 per Y, 12-01 per CBC)"
+434,placed on IR with fractured foot (date 12-05 per CBC)
+435,placed on IR with sprained knee
+436,placed on IR with surgery on Achilles
+437,placed on injured/non-roster list / IR with concussion
+438,activated from injured/non-roster list / IR with concussion
+439,toe injury (out 2-3 weeks)
+440,back spasms (out indefinitely)
+441,abdominal injury (out indefinitely)
+442,broken right hand (DTD)
+443,left ankle injury (out indefinitely)
+444,separated shoulder (DTD)
+445,hernia (DTD)
+446,forearm injury (DTD)
+447,bruised knee (DTD)
+448,strained groin (out indefinitely)
+449,broken right foot (out indefinitely)
+450,bruised right knee (DTD)
+451,sprained wrist (DTD)
+452,broken wrist (out indefinitely)
+453,lacerated right quadriceps tendon (out 6-8 weeks)
+454,hernia (out 6-8 weeks)
+455,mouth injury (DTD)
+456,torn ACL in left knee (out for season)
+457,lacerated thigh (DTD)
+458,bruised lung (DTD)
+459,bruised foot (DTD) / out indefinitely (CBC)
+460,broken right foot (DTD)
+461,sprained left ankle (DTD)
+462,bruised head (DTD)
+463,left ankle injury (out for season)
+464,fractured right hand (out for season)
+465,blood infection in back (DTD)
+466,double vision (DTD)
+467,surgery on back (out indefinitely)
+468,torn ACL and sprained MCL in left knee (out indefinitely)
+469,broken nose / stiff neck (DTD)
+470,lower body (Y) / upper body (CBC) injury (DTD)
+471,left thigh injury (out indefinitely)
+472,surgery on left shoulder (DTD)
+473,hyper-extended knee (DTD)
+474,fractured left foot (out indefinitely)
+475,swollen right hand (DTD)
+476,leg inijury (DTD)
+477,facial injury (out for season)
+478,soreness / lower body injury (out for season)
+479,lower (CBC) / upper (Y) body injury (DTD)
+480,sprained left wrist (DTD)
+481,fractured left hand (out for season)
+482,fractured right leg (out for season)
+483,stiff neck (DTD)
+484,concussion-like symptoms (DTD)
+485,placed on IR with cheekbone injury
+486,placed on IR with hip injury (out indefinitely)
+487,placed on IR with fractured right tibia
+488,placed on IR with groin injury / sports hernia
+489,placed on IR with right arm injury
+490,placed on IR with torn ACL in left knee (out indefinitely)
+491,placed on IR with sprained MCL in left knee
+492,placed on IR separated shoulder
+493,placed on IR recovering from surgery on right wrist
+494,placed on IR recovering from surgery to repair groin injury
+495,placed on IR with groin injury (out for season)
+496,placed on 7-day IR with back injury
+497,placed on 7-day IR with fractured cheekbone
+498,activated from 7-day IR
+499,placed on IR with strained back
+500,placed on IR with bulging disc in lower back
+501,placed on IR with collarbone injury
+502,placed on IR with lacerated left leg
+503,placed on IR with back injury (out for season)
+504,placed on IR with fractured cheekbone
+505,placed on IR with fractured right thumb (out for season)
+506,placed on IR with torn labrum in shoulder
+507,placed on IR with back/groin injury
+508,placed on IR with partially dislocated left shoulder
+509,activated from IR (T)
+510,placed on IR with separated left shoulder
+511,placed on IR with herniated disc
+512,placed on IR with fractured rib
+513,placed on IR with hand/finger injury
+514,placed on IR with surgery on back
+515,placed on IR with thigh injury
+516,placed on IR with oblique injury
+517,placed on IR with shoulder injury (CBC) / concussion (CBS S T)
+518,placed on IR with concussion-like symptoms (out for season) (Y)
+519,placed on IR with lower body injury (CBC E)
+520,placed on IR with right ankle injury (Y)
+521,placed on IR with right ankle injury (CBC E)
+522,placed on IR with dislocated shoulder
+523,placed on IR with foot / leg injury
+524,broken collarbone (out for season)
+525,strained lower back (DTD)
+526,right knee injury (left game)
+527,right knee injury (out 3-4 weeks)
+528,headache (DTD)
+529,broken jaw (out ~8 weeks)
+530,sprained knee (out 2-3 weeks)
+531,broken finger (out indefinitely)
+532,broken finger (out 1-2 weeks)
+533,appendectomy (DTD)
+534,sprained MCL in left knee (out 2-3 weeks)
+535,left eye infection (DTD)
+536,hip pointer (DTD)
+537,lower body injury (left game)
+538,strained right knee (DTD)
+539,eye/facial injuries (out for season)
+540,right arm injury (out indefinitely)
+541,right thigh injury (DTD)
+542,broken right wrist (out indefinitely)
+543,fractured right fibula (out indefinitely)
+544,sprained MCL in left knee (DTD)
+545,left wrist injury (DTD)
+546,bone bruise in left knee (DTD)
+547,separated left shoulder (DTD)
+548,broken foot (DTD)
+549,sprained left shoulder (left game)
+550,ankle injury (left game)
+551,sprained ankle (out indefinitely)
+552,groin injury (out for season)
+553,right elbow injury (DTD)
+554,broken jaw (DTD)
+555,surgery to repair sports hernia (out indefinitely)
+556,fractured cheekbone (DTD)
+557,lacerated shin (DTD)
+558,bruised left ankle (DTD)
+559,finger injury (out indefinitely)
+560,arthroscopic surgery on knee (DTD)
+561,lower back / groin (CBC) injury (DTD)
+562,stomach virus (DTD)
+563,sprained MCL in left knee (out for season)
+564,lacerated right forearm (out for season)
+565,post-concussion syndrome (DTD)
+566,hip / shoulder (CBC) injury (DTD)
+567,sore jaw (DTD)
+568,pectoral injury (out indefinitely)
+569,fractured right hand (DTD)
+570,strained back (out for season)
+571,fractured right thumb (out for season)
+572,pectoral injury (out for season)
+573,bruised hand (DTD)
+574,sore/strained groin (DTD)
+575,herniated disc (DTD)
+576,head injury / concussion symptoms (DTD)
+577,fractured ribs (DTD)
+578,sore groin (Y) / shoulder injury (CBC) (DTD)
+579,sprained knee (out for season)
+580,sore right knee (DTD)
+581,fractured finger (out for season)
+582,surgery to repair fractured finger (out for season)
+583,separated right shoulder (DTD)
+584,bruised left shoulder (DTD)
+585,bruised shoulder (DTD)
+586,concussion-like symptoms (out for season)
+587,dislocated shoulder (DTD)
+588,fractured jaw (out indefinitely)
+589,hip injury (out indefinitely)
+590,ACL injury in knee (out for season)
+591,placed on IR with strained pectoral muscle
+592,placed on IR with hip pointer
+593,placed on IR with arthroscopic surgery on knee
+594,placed on IR with hip/groin injury
+595,placed on IR with bruised foot
+596,placed on IR with mouth injury
+597,placed on IR with torn groin muscle (out for season)
+598,placed on IR with ribs injury
+599,placed on IR with head/neck injury
+600,placed on IR with left hand injury
+601,placed on IR with surgery on pectoral
+602,placed on IR with hairline fracture of right foot
+603,placed on IR with concussion (out for seeason)
+604,placed on IR with fractured left ankle
+605,placed on IR with thumb/hand injury
+606,placed on IR with broken foot
+607,placed on IR with fractured clavicle (out for season)
+608,placed on IR with left shoulder surgery
+609,placed on IR with groin injury / abdominal injury
+610,placed on IR with fractured collarbone
+611,placed on IR with knee injury (error?)
+612,placed on IR with knee injury (CBC SN)
+613,placed on IR with torn triceps
+614,activated from IR (E)
+615,placed on IR with high ankle sprain
+616,placed on injured/non-roster list with back injury
+617,placed on injured/non-roster list with wrist injury
+618,placed on injured/non-roster list with knee injury
+619,placed on injured/non-roster list with shoulder injury
+620,placed on injured/non-roster list with groin injury
+621,placed on injured/non-roster list with hernia
+622,left knee injury (out for rest of regular season)
+623,back injury (out for remainder of regular season)
+624,concussion (out for remainder of regular season)
+625,facial injury (out indefinitely)
+626,shoulder injury (out indefinitely)
+627,strained pectoral muscle (DTD)
+628,strained pectoral muscle (concussion per CBC) (DTD)
+629,throat (DTD)
+630,right thumb injury (DTD)
+631,chest injury (left game)
+632,separated shoulder (out indefinitely)
+633,wrist injury (date approximate)
+634,sore left leg (DTD)
+635,oblique injury (DTD)
+636,sprained MCL in right knee (out indefinitely)
+637,head injury (left game)
+638,bruised back (DTD)
+639,upper body injry (DTD)
+640,bruised left foot (DTD)
+641,left arm injury (DTD)
+642,broken hand (out indefinitely)
+643,left hand injuiry (DTD)
+644,strained calf muscle (DTD)
+645,fractured left thumb (DTD)
+646,sore lower back (DTD)
+647,head/neck injury (DTD)
+648,fractured left ankle / tibia (CBC) (out for season)
+649,hand / thumb injury (DTD)
+650,left leg injury (DTD)
+651,fractured ankle (DTD)
+652,broken right hand (out indefinitely)
+653,separated right shoulder (out indefinitely)
+654,left knee injury (out indefinitely)
+655,thumb/hand injury (DTD)
+656,broken foot (out indefinitely)
+657,broken jaw (out for season)
+658,pulled groin muscle (DTD)
+659,upper and lower body injury (DTD)
+660,broken right hand (out for season)
+661,torn left quadricep (out for season)
+662,concussion-like symptoms / concussion (CBC) (DTD)
+663,right foot injury (DTD)
+664,fractured thumb (DTD)
+665,abdominal injury (out for season)
+666,torn oblique muscle (out for season)
+667,hand infection (DTD)
+668,mouth/jaw injury (DTD)
+669,out as head coach with two fractured ribs (DTD)
+670,surgery on knee (out for season)
+671,oblique injury (out for season)
+672,fractured hand (out for season)
+673,placed on IR with fractured thumb (out indefinitely)
+674,placed on IR with bruised sternum
+675,placed on IR with fractured clavicle
+676,placed on IR with fractured right wrist
+677,placed on IR with pulled groin
+678,placed on IR with right knee injury / broken right leg (CBC Y)
+679,placed on IR / injured-non-roster list (CBC) with wrist injury
+680,placed on IR / injured-non-roster list (CBC) with knee injury
+681,placed on injured/non-roster list recovering form surgery on left shoulder
+682,activated from non-roster list
+683,activated from IR (SN) / non-roster list (E TSN)
+684,placed on IR with groin/hip injury
+685,activated from non-roster injured list
+686,activated from non-roster list (IR?)
+687,placed on IR upper body injury
+688,placed on IR with fractured left fibula (out for season)
+689,placed on IR with illness / back injury (CBC)
+690,placed on IR with herniated disc (out for season)
+691,rotator cuff injury (DTD)
+692,surgery to repair sports hernia (out for season)
+693,fractured right foot (out for season)
+694,fractured clavicle (out indefinitely)
+695,bruised right thigh (DTD)
+696,foot injury (out indefinitely)
+697,recovering from surgery on left shoulder (out indefinitely)
+698,broken right ankle (out for season)
+699,surgery on hip (DTD)
+700,bruised/sore hand (DTD)
+701,bruised left shoulder (out for season)
+702,finger injury (surgery) (DTD)
+703,upper / lower (Y) body injury (DTD)
+704,activated from IL
+705,placed on IR with fractured left leg
+706,placed on IR withi shoulder injury
+707,placed on IR with left arm injury
+708,placed on IR with left leg injury
+709,placed on IR with surgery on left knee (out for season)
+710,placed on IR with fractured wrist
+711,placed on IR with sore neck
+712,placed on IR with torn ACL in right knee
+713,placed on IR with lower body injury (date 12-08 per T)
+714,placed on IR with bruised right knee
+715,placed on IR with knee injury (CBC)
+716,placed on IR with right knee injury (out for season)
+717,placed on IR with bruised hand
+718,placed on IR with fractured fibula in right leg
+719,placed on IR with elbow infection (CBS S Y)
+720,placed on IR with sprained left shoulder
+721,sore neck (DTD)
+722,fractured left leg (out indefinitely)
+723,left leg injury (out indefinitely)
+724,upper body injury (DTD) (date approximate)
+725,lower body injury (DTD) (CBC)
+726,right leg injury (left game)
+727,right wrist injury (DTD)
+728,lower body injury (out indefinitely))
+729,torn ACL in right knee (out indefinitely)
+730,surgery on groin (out indefinitely)
+731,head/mouth injury (DTD)
+732,right knee injury / general soreness (out for season)
+733,left hand/wrist injury (out for season)
+734,fractured knuckles (DTD)
+735,placed on IR with knee injury (date approximate)
+736,placed on IR with surgery on shoulder and knee (out indefinitely)
+737,placed on IR with left knee injury (out for season)
+738,placed on IR with right ankle injury (out for season)
+739,placed on IR with left arm injury (out for season)
+740,placed on IR with lacerated left thigh
+741,placed on IR with fractured hand
+742,placed on IR withi sprained MCL in right knee
+743,placed on IR with strained right knee
+744,placed on IR with thumb injury
+745,placed on IR with fractured fibula
+746,placed on IR with lacerated leg
+747,placed on IR recovering from surgery to repair ACL in knee (out for season)
+748,bruised kidney (DTD)
+749,throat injury (DTD)
+750,fractured leg (out 6-8 weeks)
+751,leg injury (out indefinitely)
+752,broken toe (DTD)
+753,left elbow injury (DTD)
+754,fractured left foot/ankle (DTD)
+755,ankle/foot injury (out for season)
+756,surgery on knee (date approximate)
+757,right foot/ankle injury (DTD)
+758,arm injury (left game)
+759,recovering from surgery on shoulder (DTD)
+760,broken left leg (out indefinitely)
+761,back injury (out indefinitely)
+762,high ankle sprain (out indefinitely)
+763,left arm injury (out indefinitely)
+764,lacerated left thigh (DTD)
+765,fractured nose (out for season)
+766,bruised leg (DTD)
+767,sprained MCL in right knee (DTD)
+768,triceps injury (out for season)
+769,fractured finger (out indefinitely)
+770,placed on IR with herniated disc (out indefinitely)
+771,placed on IR with broken right leg
+772,placed on IR with right knee inflammation (out for season)
+773,placed on IR with facial and nasal fractures
+774,placed on IR with sprained right wrist
+775,placed on IR with fractured right ankle
+776,placed on IR with strained lower back
+777,placed on IR with torn meniscus in right knee
+778,knee injury (out 5-6 weeks)
+779,left wrist injury (out 4-5 weeks)
+780,wrist injury (out indefinitely)
+781,shoulder inijury (DTD)
+782,shoulder injury (out 4-6 weeks)
+783,post-concussion (out for season)
+784,lower body strain (DTD)
+785,left hip flexor injury (DTD)
+786,surgery on right wrist (out for season)
+787,broken right leg (out indefinitely)
+788,back spasms (out for season)
+789,right knee inflammation (DTD)
+790,stomach injury (DTD)
+791,ear injury (DTD)
+792,inner ear infection (DTD)
+793,abdominal / groin (CBC) injury (DTD)
+794,head injury / concussion (CBC) (DTD)
+795,pinched nerve in neck (DTD)
+796,facial and nasal fractures (DTD)
+797,lower body injury (DTD) (Y)
+798,torn groin muscle (out for season)
+799,fractured right tibia (out indefinitely)
+800,wrist injury (out for season)
+801,right arm/hand injury (DTD)
+802,upper body injury (DTD) (CBC Y)
+803,fractured left fibula (DTD)
+804,upper body injury (out for season))
+805,torn meniscus in right knee (out indefinitely)
+806,placed on IR with pulled leg muscle
+807,placed on IR with calf ailment
+808,placed on IR with dislocated right elbow
+809,placed on IR with cheekbone injury / broken jaw
+810,placed on IR with torn MCL in right knee
+811,placed on IR with torn ACL in left knee (out for season)
+812,placed on IR with head injury / concussion (CBC)
+813,placed on IR with lacerated right hand/finger
+814,placed on IR with lacerated left Achilles tendon
+815,placed on IR with right leg injury
+816,placed on IR with upper body injury (date 12-11 per CBC)
+817,placed on IR with leg injury (CBC)
+818,placed on IR with fractured left thumb
+819,placed on IR with fractured index finger
+820,placed on IR with fractured right finger
+821,placed on IR with fractured right index finger
+822,back spasms (left game)
+823,hand injury (left game)
+824,abdominal strain (left game)
+825,right shoulder injury (left game)
+826,right shoulder injury (out 6-8 weeks)
+827,hip flexor injurhy (DTD)
+828,right leg injury (out 2-3 weeks)
+829,quadricep injury (DTD)
+830,head & knee injuries (out indefinitely)
+831,strained ligament in right knee (out 2-4 weeks)
+832,lower body injury / upper body injury (Y) (DTD)
+833,cheekbone injury (out indefinitely)
+834,torn MCL in right knee (DTD)
+835,separated left shoulder (out indefinitely)
+836,broken right leg (DTD)
+837,lower back injury (DTD)
+838,left shoulder injury (out for season)
+839,lower back injury (out for season) (Y)
+840,lacerated thigh (out for season)
+841,right hip flexor injury (DTD)
+842,lacerated right hand (DTD)
+843,left hip injury (DTD)
+844,illness / neck injury (CBC) (DTD)
+845,collarbone injury (out for season)
+846,bruised left eye (DTD)
+847,stiff neck / head injury (DTD)
+848,sports hernia (out for season)
+849,fractured left thumb (out indefinitely)
+850,fractured right finger (DTD)
+851,right foot injury (out for season)
+852,chest injury (out for season)
+853,torn labrum in right hip (out for season)
+854,placed on IR with separated right shoulder (out 3-4 weeks)
+855,placed on IR with sore right knee
+856,placed on IR with broken left index finger
+857,placed on IR with torn ACL and sprained MCL in right knee (out for season)
+858,placed on IR with arthroscopic surgery on left knee
+859,placed on IR with post-concussion syndrome (out for season)
+860,placed on IR with fractured thumb
+861,placed on IR with throat injury
+862,placed on IR recovering from surgery on hip
+863,placed on IR with fractured fibula in left leg
+864,left knee injury (out 3-4 weeks)
+865,sprained knee (out indefinitely)
+866,right knee injury (out 4-6 weeks)
+867,groin (DTD)
+868,broken finger (left game)
+869,surgery on wrist (out indefinitely)
+870,sternum injury (DTD)
+871,foot injury (out 2-4 weeks)
+872,lacerated spleen (out indefinitely)
+873,twisted back (DTD)
+874,arthroscopic surgery on knee (out indefinitely)
+875,lacerated right knee (DTD)
+876,abdominal laceration (DTD)
+877,broken left index finger (DTD)
+878,left game with right ankle injury
+879,sprained/separated (CBC) left shoulder (DTD)
+880,surgery on right knee (DTD)
+881,sore left knee (DTD)
+882,fractured left wrist (out for season)
+883,left shoulder subluxation (DTD)
+884,eye injury (out for season)
+885,fractured fibula (DTD)
+886,neck spasms (DTD)
+887,fractured rib (out indefinitely)
+888,strained oblique (DTD)
+889,thumb injury (DTD)
+890,bruised jaw (DTD)
+891,surgery on hip (out indefinitely)
+892,groin (CBC) / hip flexor injury (DTD)
+893,fractured fibula in left leg (out indefinitely)
+894,placed on IR with right foot injury
+895,placed on IR with elbow injury (out for season)
+896,placed on IR recovering from surgery on right shoulder
+897,placed on IR with left ankle/leg injury
+898,placed on IR with left wrist injury
+899,placed on IR with left leg injury (out for season)
+900,placed on IR with left wrist injury (surgery)
+901,right knee injury (out for remainder of regular season)
+902,shoulder injury (out 3-4 weeks)
+903,torn ACL in knee (likely out for season)
+904,broken thumb (out 3-5 weeks)
+905,broken foot (out 3-4 weeks)
+906,flu (bruised kidney per CBC) (DTD)
+907,spained knee (DTD)
+908,left wrist injury (out 3-4 weeks)
+909,elbow injury (out for season)
+910,high ankle sprain (DTD)
+911,head/shoulder injury (left game)
+912,right hand finger injury (DTD)
+913,surgery on right shoulder (out indefinitely)
+914,fractured clavicle and rib (out indefinitely)
+915,flu (Y) / concussion (CBC) (DTD)
+916,upper (Y) / lower (CBC) body injury (DTD)
+917,fractured left ankle (out for season)
+918,left wrist injury (surgery) (out indefinitely)
+919,surgery on right wrist (out indefinitely)
+920,placed on IR with bruised midsection
+921,placed on IR with headaches
+922,placed on IR with surgery to repair orbital bone
+923,placed on IR with lower body injury / upper body injury (CBC)
+924,placed on IR with upper body injury (CBC SN)
+925,placed on IR with ruptured spleen (out for season)
+926,placed on IR with Achilles injury
+927,placed on IR with fractured orbital bone (out for season)
+928,placed on IR with head injury (CBC)
+929,placed on IR with Achilles injury (out for season)
+930,placed on IR with fractured leg
+931,abdominal surgery (out remainder of regular season)
+932,shoulder injury (out 3-5 weeks)
+933,right knee injury (out 1-2 weeks)
+934,kidney injury (DTD)
+935,lacerated calf (out for season)
+936,torn ACL in right knee (DTD)
+937,lower (Y)/upper (CBC) body injury (DTD)
+938,lower / upper (CBC) body injury (DTD)
+939,lower (CBC) / upper body injury (DTD)
+940,lower body injury (out for season) (CBC)
+941,lower (Y) / upper (CBC) body injury (DTD)
+942,upper body injury / concussion (DTD)
+943,placed in IR with groin injury
+944,placed on IR with torn ACL in knee (out for season)
+945,placed on IR with surgery to repair hernia
+946,placed on IR / injured non-roster list with wrist injury
+947,activated from IR / injured non-roster list
+948,placed on IR with hand injury / fractured finger
+949,placed on IR with cracked bone in left foot
+950,orbital fracture (out indefinitely)
+951,broken bone in right foot (DTD)
+952,lower body injry (DTD)
+953,torn ACL in knee (out indefinitely)
+954,broken left foot (DTD)
+955,concussion and facial lacerations (DTD)
+956,right arm injury (DTD)
+957,cracked bone in left foot
+958,placed on IR with separated shoulder (out indefinitely)
+959,placed on IR with sprained right knee (out 3-4 weeks)
+960,placed on IR with shoulder injury (date approximate)
+961,placed on IR with fractured right forearm (left arm per CBC)
+962,placed on IR with triceps injury
+963,placed on IR with bruised right shoulder
+964,placed on IR with broken right wrist
+965,placed on IR with torn MCL in left knee
+966,placed on IR with left shoulder injury (out for season)
+967,placed on IR with head injury (out for season)
+968,placed on IR with buised leg
+969,placed on IR with groin
+970,placed on IR with torso injury
+971,placed on IR ankle injury
+972,placed on IR with sprained knee (out for season)
+973,placed on IR with migraine headaches
+974,placed on IR with hand injury (date 12-04 per CBC)
+975,placed on IR with fractured kneecap (out for season)
+976,placed on IR with fractured kneecap (out for season) (CBC)
+977,placed on IR with fractured leg (out for season)
+978,placed on IR with concussion / concussion-like symptoms (out for season)
+979,placed on IR with concussion (CBC)
+980,placed on IR with fractured fibula in leg
+981,left knee injury (out remainder of regular season)
+982,wrist injury (out ~2 months)
+983,fractured right ankle (out 6-8 weeks)
+984,root canal (DTD)
+985,back injury (left game)
+986,stiff back (DTD)
+987,surgery on back to replace herniated disc
+988,left wrist/hand injury (DTD)
+989,left shoulder injury (out indefinitely)
+990,tight back (DTD)
+991,broken finger (out for season)
+992,hand injury (out indefinitely)
+993,arthroscopic surgery on right knee (out indefinitely)
+994,bruised chest (out indefinitely / DTD (Y))
+995,cheekbone injury (DTD)
+996,head injury / concussion (DTD)
+997,leg/knee injury (DTD)
+998,shoulder injury (DTD) (Y)
+999,foot injury / buised leg (CBC) (DTD)
+1000,head injury / concussion (out for season)
+1001,head injury (DTD) (CBC)
+1002,groin inury (DTD)
+1003,sprained right ankle (out indefinitely)
+1004,head/leg injuries (DTD)
+1005,back/torso injury (DTD)
+1006,bruised left hand (DTD)
+1007,leg cramp (DTD)
+1008,sprained ankle (out for season)
+1009,torn MCL in left knee (out for season)
+1010,hamstring injury (out indefinitely)
+1011,fractured foot (out for season)
+1012,fractured ankle (out for season)
+1013,placed on IR with cervical injury
+1014,placed on IR with broken leg
+1015,placed on IR with surgery on left ankle
+1016,placed on IR with post concussion syndrome
+1017,placed on IR recovering from surgery on shoulder
+1018,placed on IR with torn right Achilles tendon
+1019,placed on IR with torn ligament in left hand
+1020,placed on IR with broken bone in hand
+1021,placed on IR with fractured lower left leg
+1022,placed on long-term IR with lacerated leg
+1023,placed on IR with lacerated right calf
+1024,placed on IR with sprained MCL in knee (out for season)
+1025,placed on IR with hip injury / heel injury (CBC) (out for season)
+1026,activated from IR with upper body injury
+1027,placed on IR with fractured right fibula
+1028,placed on IR with torn ACL in knee (CBS Y) (out for season)
+1029,placed on IR with torn ACL in knee (CBC) (out for season)
+1030,placed on IR with concussion (CBC E)
+1031,lacerated knee (out indefinitely)
+1032,knee injury (2-4 weeks)
+1033,groin injury (out 3-5 weeks)
+1034,cervical injury (out indefinitely)
+1035,knee injury (left game)
+1036,broken leg (out for season)
+1037,post concussion syndrome (DTD)
+1038,surgery on shoulder (out indefinitely)
+1039,Achilles tendon injury (out indefinitely)
+1040,head injury (out for season) (date approximate)
+1041,surgery on left hand to repair torn ligament
+1042,surgery on wrist (DTD)
+1043,torn menuscus in knee (DTD)
+1044,broken bone in hand (DTD)
+1045,post-concussion (out indefinitely)
+1046,broken neck (out indefinitely)
+1047,fractured lower left leg (DTD)
+1048,concussion-like symptoms / facial injury (DTD)
+1049,broken right foot (out for season)
+1050,neck injury (out indefinitely)
+1051,upper body / lower body (CBC) injury (DTD)
+1052,lower body / upper body (CBC) injury (DTD)
+1053,forearm / shoulder (CBC) injury (DTD)
+1054,fractured left heel (out for season)
+1055,fractured left heel (out indefinitely)
+1056,fractured right leg (DTD)
+1057,head injury/concussion (out for season)
+1058,torn ACL in knee (out for season)
+1059,concussion / illness (DTD)
+1060,placed on IR with headaches / concussion (out for season)
+1061,placed on injured/non-roster list recovering from surgery on left knee
+1062,placed on IR with torn ACL and MCL in right knee (out for season)
+1063,placed on IR with groin injury (Y)
+1064,placed on IR wiith lower body injury
+1065,placed on IR with surgery on left knee
+1066,placed on IR with surgery on ankle
+1067,placed on IR with leg injury (out for season)
+1068,placed on IR with lower body injury (date 02-03 per CBC)
+1069,placed on injured/non-roster list with lower body injury
+1070,placed on IR with lower body injury (Y)
+1071,placed on IR with concussion (CBS Y)
+1072,left eye injury (DTD)
+1073,right leg injury (out indefinitely)
+1074,fractured toe (DTD)
+1075,surgery on right shoulder
+1076,surgery on left hip (out for season)
+1077,lower body soreness (DTD)
+1078,hamstring injury (out for season)
+1079,torn ACL and MCL in right knee (out indefinitely)
+1080,head injury (Y) / illness (CBC) (DTD)
+1081,finger injury (out for season)
+1082,sore leg (DTD)
+1083,post-concussion symptoms (DTD) / out for season (CBC)
+1084,groin / hip injury (DTD)
+1085,finger/hand injury (DTD)
+1086,strained groin (out for season)
+1087,wrist injury (Y) / lower body injury (CBC) (DTD)
+1088,strained knee (DTD)
+1089,strained abdominal muscle (out for season)
+1090,concussion / facial fractures (out for season)
+1091,bone bruise / strained oblique muscle (CBC) (DTD)
+1092,torn triceps (DTD)
+1093,placed on IR with broken pinky finger
+1094,placed on IR with torn rotator cuff in left shoulder
+1095,"placed on IR with broken wrist (surgery, out for season)"
+1096,placed on IR with left eye injury
+1097,placed on IR with fractured vertebrae
+1098,placed on IR with surgery on left hip
+1099,placed on IR with thumb inijury
+1100,placed on IR with surgery on shoulder to repair torn labrum (out for season)
+1101,placed on IR with broken collarbone
+1102,placed on IR with eye injury (out for season)
+1103,placed on IR with left ankle injury (out for season)
+1104,placed on IR wtih fractured foot
+1105,placed on IR with arm injury (out for season)
+1106,placed on IR with strained left hamstring
+1107,placed on IR with lower body injury (date 11-09 per CBC)
+1108,placed on IR with foot injury (SN)
+1109,placed on IR with hernia
+1110,placed on IR with facial fractures (CBC)
+1111,placed on IR with neck injury (CBC)
+1112,placed on IR with fractured fibula (out for season)
+1113,placed on IR with fractured jaw (out for season)
+1114,placed on IR with shoulder injury / fractured ribs
+1115,placed on IL with surgery on neck
+1116,sprained right knee (out 3-5 weeks)
+1117,left wrist injury (out indefinitely)
+1118,lacerated calf (out indefinitely)
+1119,broken nose (out indefinitely)
+1120,wrist injury (out 8-10 weeks)
+1121,hairline fracture in leg (DTD)
+1122,surgery on left knee (DTD)
+1123,broken rib (DTD)
+1124,broken pinky finger (DTD)
+1125,right hand injury (out indefinitely)
+1126,broken right big toe (DTD)
+1127,left arm body injury (DTD)
+1128,sore foot (DTD)
+1129,lacerated leg (out indefinitely)
+1130,head/facial injury (DTD)
+1131,sprained left knee (out indefinitely)
+1132,surgery on shoulder to repair torn labrum (out indefinitely)
+1133,torn Achilles tendon (out indefinitely)
+1134,upper body injury (our indefinitely)
+1135,broken left thumb (DTD)
+1136,fractured left foot (DTD)
+1137,broken wrist (out for season) (CBC)
+1138,torn labrum in shoulder (out for season)
+1139,foot injury (DTD) (CBC)
+1140,broken thumb (DTD)
+1141,broken collarbone (out indefinitely)
+1142,headaches (DTD)
+1143,bruised ribs & finger injury (DTD)
+1144,strained left hamstring (out indefinitely)
+1145,hand injury / fractured finger (out for season)
+1146,upper body injury / lower body injury (CBC) (DTD)
+1147,lacerated foot (DTD)
+1148,placed on IR recovering from surgery on hand
+1149,placed on IR with strained shoulder
+1150,placed on IR with torn ligament in left knee (out indefinitely)
+1151,placed on IR with sports hernia (out for season)
+1152,placed on IR with ruptured Achilles tendon
+1153,placed on IR with broken jaw (surgery)
+1154,placed on IR with broken right ankle
+1155,placed on IR with broken hand (surgery)
+1156,placed on IR for surgery to repair sports hernia
+1157,placed on IR with surgery on hip/groin
+1158,placed on IR with fractured arm
+1159,placed on IR with surgery on wrist (out for season)
+1160,placed on IR with hand injury (CBS)
+1161,placed on IR with groin injury / upper body injury
+1162,surgery on knee (out 3-4 weeks)
+1163,surgery on hand (out indefinitely)
+1164,hand injury (out 3-5 weeks)
+1165,right shoulder injury (out indefinitely)
+1166,foot injury (out 4-6 weeks)
+1167,surgery on wrist (out 8-10 weeks)
+1168,broken finger (out 4-6 weeks)
+1169,lacerated neck (left game)
+1170,shoulder injury (out 2-3 weeks)
+1171,post-concussion (DTD)
+1172,lacerated left leg (right ankle injury CBC) (DTD)
+1173,wrist/hand injury (DTD)
+1174,nasal surgery (out indefinitely)
+1175,left shoulder injury (DTD) (CBC)
+1176,lacerated ear (DTD)
+1177,infected foot (DTD)
+1178,broken right ankle (DTD)
+1179,left shoulder and wrist injury (DTD)
+1180,fractured nose (DTD)
+1181,hand/wrist injury (out for season)
+1182,fractured orbital bone (out indefinitely)
+1183,upper body injury / groin injury (CBC) (DTD)
+1184,sprained right shoulder (DTD)
+1185,placed on IR with fractured right leg/ankle
+1186,placed on IR with post-concussion symptoms
+1187,placed on IR high left ankle sprain
+1188,placed on IR with broken sternum
+1189,placed on IR with post-concussion syndrome (out for season and all of 2013-14 season)
+1190,placed on IR with fractured left tibia
+1191,placed on IR with lower body injury (date 12-08 per CBC T)
+1192,placed on IR with concussion (CBS)
+1193,placed on IR with concussion (CBC T)
+1194,placed on IR with torn ACL in right knee (out for season)
+1195,placed on IR with groin injury (date 11-10 per CBC)
+1196,placed on IR with torn MCL in knee
+1197,placed on IR with fractured femur in left leg (out for season)
+1198,placed on IR with heart ailment
+1199,concussion (left game)
+1200,bruised shin (DTD)
+1201,bruised right foot (out indefinitely)
+1202,fractured left tibia (out indefinitely)
+1203,fractured right tibia (DTD)
+1204,bruised left leg (DTD)
+1205,fracture facial bone (DTD)
+1206,eye contusion (DTD)
+1207,stomach virus (Y) / rest (CBC) (DTD)
+1208,spleen injury (out for season)
+1209,surgery on speen (out for season)
+1210,high left ankle sprain (DTD)
+1211,fractured right thumb (DTD)
+1212,right knee injury (DTD
+1213,broken right pinky finger (DTD)
+1214,surgery on broken right pinky finger
+1215,broken / dislocated right wrist (out for season)
+1216,post-concussion syndrome (out indefinitely)
+1217,fractured left forearm (DTD)
+1218,fractured right ring finger (DTD)
+1219,upper body / hip (CBC) injury (DTD)
+1220,sprained neck (DTD)
+1221,"broken nose, facial lacerations (DTD)"
+1222,surgery to repair facial injuries (DTD)
+1223,facial laceration / head injury (DTD)
+1224,sprained left knee (out for season)
+1225,bruised left knee (out for season)
+1226,fractured left leg (DTD)
+1227,strained shoulder (DTD)
+1228,foot/leg injury (DTD)
+1229,fractured right fibula (out for season)
+1230,lower back (Y) / upper body (CBC) injury (DTD)
+1231,concussion (DTD) (CBC Y)
+1232,bruised right hand (DTD)
+1233,fractured right finger (out indefinitely)
+1234,surgery on left hand (out for season)
+1235,surgery on left hip (out indefinitely)
+1236,right hip injury (DTD)
+1237,surgery on right elbow (DTD)
+1238,placed on IR with concussion / broken nose / broken finger
+1239,placed on IR with broken bone in right hand
+1240,placed on IR with surgery on hip (out for season)
+1241,placed on IR with torn MCL in left knee (out for season)
+1242,placed on IR with quadriceps injury
+1243,placed on IR with hyperextended elbow
+1244,placed on IR with surgery on finger (DTD)
+1245,activated from IR (date 01-16 per S)
+1246,placed on IR with heart ablation procedure
+1247,placed on IR with torn ligament in knee
+1248,placed on IR with broken arm
+1249,placed on IR with fractured forearm
+1250,placed on IR with strained MCL in left knee
+1251,placed on IR with left knee injury (surgery) (CBC CBS)
+1252,placed on IR with chipped bone in ankle
+1253,placed on IR with severed tendon in left ankle
+1254,activated from IR with strained oblique
+1255,placed on IR with bursa sac injury in elbow
+1256,placed on IR with bruised left knee
+1257,placed on IR with leg injury (out for season?)
+1258,placed on IR with concussion (CBC SN)
+1259,placed on injured/non-roster list with Achilles injury
+1260,placed on IR with fractured foot (out for season)
+1261,placed on IR with hip injury (CBS S Y)
+1262,placed on IR with hip injury (CBC)
+1263,left wrist injury (left game)
+1264,broken hand (out 7-10 weeks)
+1265,surgery on groin (DTD)
+1266,bruised foot (out indefinitely)
+1267,arm injury (out indefinitely)
+1268,strained hip (DTD)
+1269,accelerated heart rate (DTD)
+1270,heart ablation procedure (DTD)
+1271,eye injury (left game)
+1272,fractured wrist (DTD)
+1273,upper body injurhy (out for season)
+1274,heart surgery (DTD)
+1275,broken foot (out for season)
+1276,separated shoulder (out for season)
+1277,lacerated finger (DTD)
+1278,ankle/leg injury (DTD)
+1279,head/nose injury (DTD)
+1280,whiplash (DTD)
+1281,fractured hand (out indefinitely)
+1282,sports hernia (surgery) (out for season)
+1283,lower (Y) / upper body injury (CBC) (DTD)
+1284,lower body injury (DTD) (CBC Y)
+1285,placed on IR recovering from surgery on knee to repair blood clot
+1286,placed on IR with upper body injury / concussion
+1287,placed on IR with broken right hand (Y) / left hand (CBC)
+1288,placed on IR with broken toe
+1289,placed on IR with broken right fibula (out for season)
+1290,placed on IR with post-concussion
+1291,placed on IR with hip infection after surgery
+1292,placed on IR with Achilles injury (surgery)
+1293,placed on IR with upper body injury (CBC E)
+1294,sprained left knee (out 4-6 weeks)
+1295,dislocated kneecap (out 3-4 weeks)
+1296,eye & shoulder injury (DTD)
+1297,finger injury (DTD) (date approximate)
+1298,lacerated finger / hand injury (DTD)
+1299,cheekbone injury (out for season)
+1300,neck/back injuries (DTD)
+1301,upper body injury (CBC) / lower body injury (Y) (DTD)
+1302,placed on IR with left foot injury
+1303,placed on IR with torn ACL and MCL in knee (out for season)
+1304,placed on IR with lower body injury (date approximate)
+1305,placed on IR with fractured left ring finger
+1306,placed on IR with broken left thumb (date approximate)
+1307,placed on IR with fractured/dislocated right hand
+1308,placed on IR with recovering from surgery to repair fractured left ankle
+1309,placed on IR with fractured left scapula
+1310,placed on IR with right hip injury
+1311,placed on IR wiwth strained groin
+1312,placed on IR with surgery on right hand
+1313,placed on IR with surgery to repair abdominal injury
+1314,placed on IR with concussion (Y)
+1315,placed on IR with fractured left ankle (CBC)
+1316,placed on IR with left elbow injury
+1317,fractured left clavicle (out for season)
+1318,fractured right foot (out 3-4 weeks)
+1319,"lower body injury (left game, DTD)"
+1320,broken left ankle (out ~8 weeks)
+1321,upper back injury (DTD)
+1322,sore shoulder (DTD)
+1323,broken right wrist (DTD)
+1324,right arm/wrist injury (DTD)
+1325,high ankle sprain (DTD) / out for season (CBC)
+1326,broken right index finger (DTD)
+1327,concussion / concussion-like symptoms (DTD)
+1328,sprained right wrist (DTD)
+1329,bruised shoulder (out indefinitely)
+1330,left foot injury (out for season)
+1331,bruised left knee (DTD)
+1332,body soreness (out for season)
+1333,recovering from surgery on right hand (out for season)
+1334,wrist injury (Y) / sprained left shoulder (CBC) (DTD)
+1335,placed on IR with forearm injury
+1336,placed on IR with blood clot in leg
+1337,placed on IR with upper body strain
+1338,placed on IR with right wrist injury
+1339,placed on IR with groin injury (out for season
+1340,placed on IR with toe injury (Y)
+1341,placed on IR with tibia injury (CBC)
+1342,placed on IR with fractured wrist (out for season)
+1343,placed on IR with ankle injury (CBS) / fibula injury (CBC)
+1344,fractured right thumb (out indefinitely)
+1345,sports hernia (out for remainder of regular season)
+1346,bruised tailbone (DTD)
+1347,strained left knee (DTD)
+1348,finger injury (out 4-6 weeks)
+1349,surgery on wrist (out for season)
+1350,bruised heel (DTD)
+1351,lacerated spleen (out for season)
+1352,broken jaw (out indefinitely)
+1353,left knee injury (left game)
+1354,dental surgery (DTD)
+1355,sore finger / thumb injury (CBC) (DTD)
+1356,head injury (DTD) (Y)
+1357,chin injury (DTD)
+1358,lower body / groin injury (out for season)
+1359,left wrist injury (out for season)
+1360,tibia injury (DTD) (CBC)
+1361,placed on IR with surgery on left foot
+1362,placed on IR with dislocated left shoulder
+1363,placed on IR with right shoulder injuiry
+1364,placed on injured-non roster list with infection in right foot
+1365,placed on IR recovering from surgery on right knee to repair with torn ACL and MCL (out for season)
+1366,placed on IR with upper body (Y) / lower body (CBC) injury
+1367,placed on IR with lower body injury / surgery to repair hernia
+1368,placed on IR with broken wrist (out for season)
+1369,placed on IR with fractured hand/wrist
+1370,placed on IR with surgery to repair fractured ankle
+1371,placed on IR with upper body injury (CBS)
+1372,placed on IR with upper body injury (E T CBC)
+1373,placed on IR recovering from surgery on shoulder to repair labrum
+1374,placed on IR with lower body injury (CBS) / surgery on wrist (CBC)
+1375,placed on IR with blood clots in lungs (out for season)
+1376,placed on IR with leg injury (date 12-08 per CBC)
+1377,placed on IR with upper body injury (date 12-18 per CBC)
+1378,placed on IR recovering from surgery on ankle (out for season)
+1379,placed on IR with surgery on left hand
+1380,knee injury (out 3-4 weeks)
+1381,ankle injury (out 3-4 weeks)
+1382,ankle injury (out 7-8 weeks)
+1383,infected cut on leg (DTD)
+1384,broken leg (out indefinitely)
+1385,recovering from surgery on shoulder (out for season)
+1386,facial/head injury (DTD)
+1387,upper body injury injury (DTD)
+1388,left foot injury injury (DTD)
+1389,surgery on left foot (date approximate)
+1390,strained right shoulder (DTD)
+1391,right arm injury (left game)
+1392,bruised right shoulder (out indefinitely)
+1393,torn abdominal muscle (out indefinitely)
+1394,surgery to repair torn abdominal muscle (out indefinitely)
+1395,fractured left ring finger (DTD)
+1396,groin injury (DTD) (date approximate)
+1397,infection in right foot (DTD)
+1398,shoulder injury (out indefinitely) / broken finger (DTD) (Y)
+1399,sore knee (DTD)
+1400,sore hip/groin (DTD)
+1401,torn ACL and MCL in right knee (out for season)
+1402,surgery to repair hernia (DTD)
+1403,concussion (CBC) / concussion-like symptoms (DTD)
+1404,headaches (precautionary) (DTD)
+1405,illness (DTD) / concussion (out indefinitely) (CBC)
+1406,arthroscopic surgery on knee (out for season)
+1407,surgery to repair fractured jaw (out for season)
+1408,blood clot in pelvis (DTD)
+1409,lower body (CBC) / upper body injury (DTD)
+1410,surgery on shoulder to repair labrum (out indefinitely)
+1411,concussion symptoms (DTD)
+1412,surgery on ankle (out for season)
+1413,placed on IR with torn labrum in left shoulder (right shoulder?)
+1414,placed on IR with abdominal strain
+1415,placed on IR with dislocated right shoulder
+1416,placed on IR with surgery for sports hernia / right groin/hip injury
+1417,placed on IR with strained left oblique muscle
+1418,placed on IR with strained left shoulder
+1419,placed on IR with torn abdominal muscle
+1420,placed on IR with hip injury (CBC SN)
+1421,placed on IR with surgery on right foot
+1422,placed on IR with surgery on left shoulder (out for season)
+1423,placed on IR with right eye injury
+1424,placed on IR with high left ankle sprain
+1425,"placed on IR with back, groin, abdominal injuries (out for season)"
+1426,placed on IR with lacerated right thigh
+1427,placed on IR with hip injury (out for season)
+1428,placed on IR with torn muscles in rib cage
+1429,placed on IR with separated left shoulder (out for season)
+1430,placed on IR with blood clots in right leg
+1431,placed on IR with groin injury (CBS) / surgery on pectoral (CBC)
+1432,placed on IR with back injury (date 12-23 per CBC)
+1433,placed on IR with lower body injury (CBS)
+1434,placed on IR with lower body injury (CBC SN)
+1435,placed on injured/non-roster list with upper body injury
+1436,separated left shoulder (out 1-3 weeks)
+1437,right wrist injury (out indefinitely)
+1438,sprained shoulder (out indefinitely)
+1439,left hand injury (out 2-3 weeks)
+1440,dizziness (DTD)
+1441,dizziness (out indefinitely)
+1442,calf injury (DTD)
+1443,mild concussion (out indefinitely)
+1444,placed on IR with sports hernia (out indefinitely)
+1445,sprained MCL in left knee (out 1-2 weeks)
+1446,blood clot in right ankle (out indefinitely)
+1447,surgery on hip (out 3-5 weeks)
+1448,strained MCL in knee (DTD)
+1449,surgery to repair torn stomach muscle (out 3-5 weeks)
+1450,strained left groin (DTD)
+1451,torn stomach muscle (out indefinitely)
+1452,surgery on right ring finger
+1453,strained left shoulder (DTD)
+1454,dislocated right shoulder (DTD)
+1455,surgery to repair torn abdominal muscle
+1456,surgery on right foot (DTD)
+1457,post-concussion syndrome (out for season)
+1458,bulging disc in back (DTD)
+1459,surgery on knee (DTD)
+1460,surgery to repair fractured left orbital bone (out indefinitely)
+1461,right eye injury (out for season)
+1462,wrist injury (DTD / out indefinitely)
+1463,surgery to repair torn groin muscle (out for season) (date approximate)
+1464,chipped bone in right foot (DTD)
+1465,bruised upper back (out for season)
+1466,stomach ailment (out for season)
+1467,right ankle injury (out for season)
+1468,right leg injury / surgery on ankle (out for season)
+1469,surgery on hip/abdominal (out for season)
+1470,fractured left leg (out for season)
+1471,sprained ankle / left knee injury (DTD)
+1472,placed on IR with broken ankle
+1473,placed on IR with torn pectoral muscle
+1474,placed on IR with broken left wrist
+1475,placed on IR with torn meniscus (out for season)
+1476,placed on IR with torn labrum and rotator cuff in left shoulder (out for season)
+1477,placed on IR with back spasms (out for season)
+1478,placed on IR with swollen right knee
+1479,placed on IR with swollen left knee (CBC)
+1480,placed on IR with sprained left wrist
+1481,placed on IR with strained MCL in left knee (surgery)
+1482,placed on IR with broken facial bones
+1483,placed on IR with dislocated left knee cap (out for season)
+1484,placed on IR with broken right hand/thumb
+1485,placed on IR with strained groin and abdomen
+1486,placed on IR with lower body injury (date 12-27 per CBC SN)
+1487,sports hernia (out remainder of regular season)
+1488,sprained right knee (out 4-5 weeks)
+1489,leg injury (left game)
+1490,knee injury (out 2-3 weeks)
+1491,hairline fracture in left foot (DTD)
+1492,swollen right knee (DTD)
+1493,hip resurfacing surgery (out indefinitely)
+1494,broken ribs (DTD)
+1495,broken wrist (out for season)
+1496,swollen left knee (out for season)
+1497,sore back (Y) / facial injury (CBC) (DTD)
+1498,torn left rotator cuff (out for season)
+1499,surgery on left shoulder to repair torn rotator cuff (out for season)
+1500,torn MCL in left knee (DTD)
+1501,fractured left cheekbone (DTD)
+1502,strained adductor muscle (DTD)
+1503,strained MCL in left knee (DTD)
+1504,broken facial bones (DTD)
+1505,dislocated left knee cap (out for season)
+1506,surgery on right hip (out for season)
+1507,right hip flexor injury (out for season)
+1508,concussion / out indefinitely (CBC) (DTD)
+1509,broken right hand/thumb (out indefinitely)
+1510,lacerated elbow (DTD)
+1511,groin injury / sports hernia (DTD)
+1512,lower body injury / illness (CBC) (DTD)
+1513,"torn MCL, menuscis in knee (out indefinitely)"
+1514,fractured / bruised (CBC) right hand (out for season)
+1515,upper body injury / lower body injury (CBC) (out for season)
+1516,fractured left fibula (out for season)
+1517,placed on IR with surgery on left ankle to repair lacerated tendon
+1518,placed on IR with right knee injury (surgery) (out for season)
+1519,placed on IR with fractured vertebrae in neck (out for season)
+1520,placed on IR with groin/hernia injury
+1521,placed on IR recovering from surgery to repair torn right biceps (out for season)
+1522,placed on IR with dizziness (out for season)
+1523,activated from IR (CBC TSN)
+1524,placed on IR with left hamstring injury
+1525,activated from IR (S)
+1526,placed on IR with fractured fingers
+1527,placed on IR with upper body injury / lower body injury (S Y)
+1528,placed on IR with sports hernia (CBC) (out for season)
+1529,placed on IR with surgery on left knee (CBS S Y) (out for season)
+1530,placed on IR with surgery on left knee (CBC) (out for season)
+1531,placed on IR with fractured sternum
+1532,broken thumb (out 5-7 weeks)
+1533,lower body injury (out 2-3 weeks)
+1534,broken arm (out indefinitely)
+1535,groin / lower body injury (DTD)
+1536,torn left Achilles tendon (out for season)
+1537,surgury on shoulder (out indefinitely)
+1538,broken bone in left foot (DTD)
+1539,left hand/wrist injury (DTD)
+1540,leg laceration (DTD)
+1541,recovering from surgery on right knee to repair torn ACL (out indefinitely)
+1542,"concussion, fractured vertebrae in neck (out indefinitely)"
+1543,lacerated left leg (out indefinitely)
+1544,surgery to repair torn right biceps (DTD)
+1545,headache / concussion (out for season)
+1546,headaches (out for season)
+1547,flu / concussion (CBC) (DTD)
+1548,torn ligament in left knee (out for season)
+1549,torn left biceps (out for season)
+1550,left hamstring injury (DTD)
+1551,fractured thumb (out for season)
+1552,placed on IR with surgery on right wrist
+1553,placed on IR with lacerated thigh
+1554,placed on IR with hand injury (out for season)
+1555,placed on IR with infection in hand
+1556,placed on IR with sprained ankle (out for season)
+1557,placed on IR with lower body injury (CBC E SN)
+1558,placed on IR recovering from surgery on left shoulder (out for season)
+1559,bruised right ankle (DTD)
+1560,upper body injury (DTD) (Y)
+1561,mid body injury (DTD)
+1562,broken left foot (out for season)
+1563,infection in hand (out indefinitely)

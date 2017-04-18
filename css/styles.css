@@ -1,0 +1,171 @@
+a{
+    color: #3EC28F;
+}
+a:hover{
+    color: #3EC28F;
+}
+
+#human-info {
+    display: hidden;
+}
+
+body{
+    font-family: "Open Sans";
+}
+.main{
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+.section{
+    margin-top: 30px;
+}
+.section p{
+    font-size: 16px;
+    line-height: 1.7em;
+}
+.section p i{
+    color: #797979;
+}
+.section p .figure{
+    font-size: 12px;
+    line-height: 20px;
+}
+.section p strong{
+    font-style:italic;
+    color: #000;
+}
+.section-slide{
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+}
+.section-slide .slide-title{
+    /* background: rgba(0,0,0,0.6); */
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 60px;
+    padding: 15px 20px;
+}
+.navbar{
+    margin-bottom: 0;
+    border: 0 none;
+    background-color: #fff;
+    box-shadow: 0 0 1px rgba(0,0,0,0.3)
+}
+.navbar a{
+    /* height: 60px; */
+}
+.navbar-default .navbar-brand{
+    color: #222;
+    font-weight: 600;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color: transparent;
+    color: #000;
+}
+.section-container{
+    width: 800px;
+}
+.section-title{
+    text-transform: uppercase;
+    line-height: 1.3em;
+}
+.footer{
+    background-color: #f7f7f7;
+    padding: 30px 0 40px;
+}
+.footer p{
+    color: #999;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+.axis text {
+    font-family: "times new roman";
+    font-size: 12px;
+}
+
+text{
+    font-size:12px;
+}
+.tooltip{
+    text-anchor: middle;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    fill:green; 
+}
+
+
+.node.active {
+  fill: blue;
+}
+
+.mainBars rect{
+  shape-rendering: auto;
+  fill-opacity: 0;
+  stroke-width: 0.5px;
+  stroke: rgb(0, 0, 0);
+  stroke-opacity: 0;
+}
+.subBars{
+    shape-rendering:crispEdges;
+}
+.edges{
+    stroke:none;
+    fill-opacity:0.5;
+}
+
+#chart {
+    min-width: 400px; max-width: 600px; height: 400px; margin: 0 auto
+}
+
+#round-chart {
+    height:400px;
+}
+
+.titleAlign {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.viewIntro {
+    width:80%;
+    padding-bottom: 20px;
+    margin:0 auto
+}
+
+#tableResult {
+    padding-top: 30px;
+}
+table {
+    border: 1px #D8D8D8 solid;
+    width: 100%;
+    text-align: left;
+    background: white;
+    border-radius:3px;
+    border-collapse: collapse;
+    margin: auto;
+    max-width: 600px;
+    padding:5px;
+    width: 100%;
+}
+
+td {
+    padding: 5px;
+}
+            
+tr:hover {background-color: #f5f5f5}
+tr{padding-right: 10px;}
+
+#sankey_multiple {
+     margin:0 auto;
+    padding-bottom: 40px;
+}

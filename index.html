@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="d3.js"></script>
+        <script src="js/nv.d3.js"></script>
+        <script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
+        <script src="js/highcharts.js"></script>
+        <script src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+
+
+        <link href="css/nv.d3.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/styles.css"/>
+        
+
+    </head>
+    <body>
+    <div class="header">
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html" title="Return Home"><!--<img src="assets/img/logo.png" width="30"/>-->VizBA</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="about.html"></a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </div>
+
+    <div class="main">
+        <div id="barchart" class="row">
+            <h4 class="titleAlign">NHL Injury Overview (2007-2017)</h4>
+                <p class="viewIntro">Want to know which team had the most injuries? Want to know which team had the most Head injuries? Want to know if there were teams with no Upper Arm injuries? For a particular team (say Oilers), what was the distribution of the different types of injuries? Here are 2 switchable bar charts to help answer questions like these.</p>
+            <div  class="col-md-1"></div>
+            <div id="round-chart" class="col-md-10">
+                <svg id="view1"></svg>
+            </div>
+            <div  class="col-md-1"></div>
+        </div>
+
+        <div id="sankey" class="row">
+
+
+            <div class="col-md-1"></div>
+            <div class="col-md-4">
+
+                <h4 class="titleAlign">Team Injury Vs. Positions</h4>
+                <p class="viewIntro">Delving deeper into the injuries for a team, want to know if there's a trend that causes the player's position to affect the number of injuries per body part, i.e. do we observe the Center players have more head injuries vs. the Left Wing? Want to know the duration in days for which the player was out (recovery time) due to the different types of injuries? What was the longest duration a player was ever out for? And why?
+                 The 5 player positions on the right are:
+                C - Centre,
+                 D - Defence,
+                  G - Goalie,
+                   LW - Left Wing,
+                    RW - Right Wing. Go ahead and select a team!
+                </p>
+                
+                <div id="page-wrap">
+                            <select id="json-one">
+                                <option selected value="base">Please Select Team</option>
+                                <option value="Sharks">Sharks</option>
+                                <option value="Oilers">Oilers</option>
+                                <option value="Islanders">Islanders</option>
+                                <option value="Blue Jackets">Blue Jackets</option>
+                                <option value="Thrashers">Thrashers</option>
+                                <option value="Rangers">Rangers</option>
+                                <option value="Stars">Stars</option>
+                                <option value="Canucks">Canucks</option>
+                                <option value="Maple Leafs">Maple Leafs</option>
+                                <option value="Hurricanes">Hurricanes</option>
+                                <option value="Coyotes">Coyotes</option>
+                                <option value="Jets">Jets</option>
+                                <option value="Sabres">Sabres</option>
+                                <option value="Flames">Flames</option>
+                                <option value="Capitals">Capitals</option>
+                                <option value="Lightning">Lightning</option>
+                                <option value="Penguins">Penguins</option>
+                                <option value="Predators">Predators</option>
+                                <option value="Flyers">Flyers</option>
+                                <option value="Wild">Wild</option>
+                                <option value="Red Wings">Red Wings</option>
+                                <option value="Senators">Senators</option>
+                                <option value="Blackhawks">Blackhawks</option>
+                                <option value="Devils">Devils</option>
+                                <option value="Ducks">Ducks</option>
+                                <option value="Avalanche">Avalanche</option>
+                                <option value="Canadiens">Canadiens</option>
+                                <option value="Kings">Kings</option>
+                                <option value="Blues">Blues</option>
+                                <option value="Panthers">Panthers</option>
+                                <option value="Bruins">Bruins</option>
+                            </select>
+                        </div>
+
+            </div>
+            <div class="col-md-6">
+
+                        
+                        <p></p>
+
+                        <div id="sankey_multiple"></div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div id="scatterPlot" class="row">
+            <div  class="col-md-1"></div>
+            <div id="boxes" class="col-md-10">
+                
+            </div>
+            <div  class="col-md-1"></div>
+        </div>
+
+        <div id="radarChart" class="row">
+            <h4 class="titleAlign">Individual Player Explorer</h4>
+                <p class="viewIntro">Now is the time for you fans to really check out your favourite players' injury history. Please select a player from the dropdown. Here's 2 views that show the history of injuries for a player(Left) along with the count of each type of injury(Right).</p>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+
+                <div id="page-wrap">           
+                    <select id="json-two">
+                        <option>Please Select Player</option>
+                    </select>
+                </div>
+                <div id="tableResult">
+                </div>
+
+            </div>
+                
+            <div class="col-md-5" id="chart"></div>
+            <div class="col-md-1"></div>
+        </div>
+    </div>
+
+                 
+
+    <script src="scripts.js"></script>
+    </body>
+</html>

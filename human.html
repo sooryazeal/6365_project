@@ -1,0 +1,77 @@
+<html>
+<head>
+	<meta charset="utf-8">
+        <title></title>
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="d3.js"></script>
+        <script src="js/nv.d3.js"></script>
+        <script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+
+
+        <link href="css/nv.d3.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/styles.css"/>
+    </meta>
+</head>
+<body>
+<div id="page-wrap"> <h1 style = "left: 35%;top: 0%;
+    position: absolute;">Predicting injuries in 2017</h1>
+    <iframe
+      style = "margin-left: 15%; top: 20%; position: fixed;"
+      id="embedded-human"
+      frameBorder="0"
+      width="70%"
+      height="600"
+      allowFullScreen="true"
+      src="https://human.biodigital.com/widget/?be=1n5C&background=92,86,168,2,10,20&ui-annotations=true&ui-info=true&ui-tools=true&uaid=2IobR">
+    </iframe>
+    	<h3 style = "top: 18%"> Choose Team </h3>
+        <select id="json-three" style = "position: absolute;
+    top: 20%;
+    left: 0;
+    width: 15%;">
+            <option selected value="base">Please Select Team</option>
+            <option value="Sharks">Sharks</option>
+            <option value="Oilers">Oilers</option>
+            <option value="Islanders">Islanders</option>
+            <option value="Blue Jackets">Blue Jackets</option>
+            <option value="Thrashers">Thrashers</option>
+            <option value="Rangers">Rangers</option>
+            <option value="Stars">Stars</option>
+            <option value="Canucks">Canucks</option>
+            <option value="Maple Leafs">Maple Leafs</option>
+            <option value="Hurricanes">Hurricanes</option>
+            <option value="Coyotes">Coyotes</option>
+            <option value="Jets">Jets</option>
+            <option value="Sabres">Sabres</option>
+            <option value="Flames">Flames</option>
+            <option value="Capitals">Capitals</option>
+            <option value="Lightning">Lightning</option>
+            <option value="Penguins">Penguins</option>
+            <option value="Predators">Predators</option>
+            <option value="Flyers">Flyers</option>
+            <option value="Wild">Wild</option>
+            <option value="Red Wings">Red Wings</option>
+            <option value="Senators">Senators</option>
+            <option value="Blackhawks">Blackhawks</option>
+            <option value="Devils">Devils</option>
+            <option value="Ducks">Ducks</option>
+            <option value="Avalanche">Avalanche</option>
+            <option value="Canadiens">Canadiens</option>
+            <option value="Kings">Kings</option>
+            <option value="Blues">Blues</option>
+            <option value="Panthers">Panthers</option>
+            <option value="Bruins">Bruins</option>
+        </select>
+
+        <h3 id = "player" style = "top: 25%; position: absolute;display: none;"> Choose Player </h3>
+        <select id="json-four" style = "display: none; position: absolute;
+		    top: 45%;
+		    left: 0;
+		    width: 15%;">
+    </div>
+    <script src="humn.js"></script>
+    </body>
+</html>
