@@ -1,9 +1,75 @@
+var data={}, h_pred = function(){ if(data.h_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_proper_muscles_of_neck_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_proper_muscles_of_neck_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_proper_muscles_of_neck_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_proper_muscles_of_neck_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+            }},ll_pred = function(){  if(data.ll_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})    
+            }},ul_pred = function(){ 
+            if(data.ul_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})    
+                         };
+            if(data.ua_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_upper_arm_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_upper_arm_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_upper_arm_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_upper_arm_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+            }},la_pred = function(){ 
+            if(data.la_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_extensor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_extensor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_flexor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_flexor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_extensor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_extensor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_flexor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_flexor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+            }},torso_pred = function(){ 
+            if(data.torso_pred > 0) {
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_muscles_of_abdomen_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-right_muscles_of_abdomen_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_pectoral_girdle_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_pectoral_girdle_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_shoulder_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_shoulder_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_muscles_of_abdomen_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-left_muscles_of_abdomen_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_pectoral_girdle_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_pectoral_girdle_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_shoulder_ID").objects.map(function(p) {p.setHighlight(true)})
+              window.frames[0].Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_shoulder_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
+            
+            }};
 $("#json-four").change(function() {
-  debugger
   d3.csv("pred.csv", function(csv){
-    data={};
+    value = $("#json-four")[0].value;
+
           csv.forEach(function(d) {
-          if(d.player == this.value){
+          if(d.player == value){
             data.h_pred = +d.h_pred;
             data.la_pred = +d.la_pred;
             data.ll_pred = +d.ll_pred;
@@ -16,78 +82,11 @@ $("#json-four").change(function() {
             data.ll_pred_proba = +d.ll_pred_proba;
             data.ua_pred_proba = +d.ua_pred_proba;
             data.ul_pred_proba = +d.ul_pred_proba;
-            data.torso_pred_proba = +d.torso_pred_proba;      
+            data.torso_pred_proba = +d.torso_pred_proba;    
+            h_pred(),ll_pred(), ul_pred(), la_pred(), torso_pred() ;  
             }
-
-            if(data.h_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-right_craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-right_craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-right_proper_muscles_of_neck_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-right_proper_muscles_of_neck_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-left_craniofacial_muscles_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-left_craniofacial_muscles_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-left_proper_muscles_of_neck_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-left_proper_muscles_of_neck_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-      
-            };
-            if(data.ll_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-lateral_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_lower_leg_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})    
-            };
-            if(data.ul_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-posterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_left_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-anterior_compartment_muscles_of_right_thigh_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})    
-                         };
-            if(data.ua_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_upper_arm_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_upper_arm_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_upper_arm_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_upper_arm_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-            };
-            if(data.la_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_extensor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_extensor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_flexor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_forearm_flexor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_extensor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_extensor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_flexor_compartment_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_forearm_flexor_compartment_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-            };
-            if(data.torso_pred > 0) {
-              Human.scene.getObject("human_02_male_muscular_system-right_muscles_of_abdomen_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-right_muscles_of_abdomen_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_pectoral_girdle_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_pectoral_girdle_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_shoulder_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_right_shoulder_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-left_muscles_of_abdomen_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-left_muscles_of_abdomen_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_pectoral_girdle_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_pectoral_girdle_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_shoulder_ID").objects.map(function(p) {p.setHighlight(true)})
-              Human.scene.getObject("human_02_male_muscular_system-muscles_of_left_shoulder_ID").objects.map(function(p) {p.objects.map(function(x) {x.setHighlight(true)})})
-            
-            };
           });
+           
   });
 });
 $("#json-three").change(function() {
