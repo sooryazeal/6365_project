@@ -145,6 +145,10 @@ text{
 #tableResult {
     padding-top: 30px;
 }
+#tablePredResult {
+    float: right;
+    margin-right: 22%;
+}
 table {
     border: 1px #D8D8D8 solid;
     width: 100%;
